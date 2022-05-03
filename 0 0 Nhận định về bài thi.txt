@@ -1,0 +1,6 @@
+- Do các thông số open, close, high, .. là loại dữ liệu mà mỗi row của nó là ngày -> nên bạn sẽ đóng vai trò là người đầu tư dài hạn
+
+(Ngắn hạn coi theo phút, trung hạn coi theo giờ hoặc 1 ngày, dài hạn coi theo ngày trở lên)
+
+Phân tích kĩ thuật là cho nhà đầu tư ngắn hạn
+Phân tích cơ bản là cho nhà đầu tư dài hạn

@@ -1,0 +1,30 @@
+O - Open - Giá mở cửa
+H - High - Giá cao nhất
+L - Low - Giá thấp nhất
+C - Close - Giá đóng cửa
+
+Mỗi cây nến tượng trưng cho 1 khung thời gian
+vd: 1 phust, cây nến đại diện cho giao dịch trong 1 phút giá lên giá xuống
+
+Nến có tính chất kết hợp:
+2 cây nến 1h kết hợp thành nến 2h 
+
+Nến nhật có 3 dạng chính: thanh to, thanh vừa và thanh nhỏ
+
+Nếu thanh nhỏ và thanh vừa đứng một mình thì sẽ khôgn có nhiều ý nghĩa lắm
+
+Tuy rằng có 2 màu và 3 dạng khác nhau: nhưng khi kết hợp với nhau sẽ tạo thành các mô hình
+
+Vd:
+Mô hình cây búa: râu nến xuống dưới càng dài (màu xanh) thì sự trở lại càng lớn -> nên mua
+
+Mô hình shooting star - bắn sao: râu nến hướng dài lên trên, màu đỏ
+
+Mô hình engulfing 
+giá cp giảm
+
+Mô hình ngôi sao
+Mô hình ngôi sao ngược
+
+
+https://www.youtube.com/watch?v=Rj2Qj7KgVFM&list=PLB1cwX3DQaowQ6GwH7lxCG6E6v8k0u_H3&index=2&ab_channel=ThanhCong-TC

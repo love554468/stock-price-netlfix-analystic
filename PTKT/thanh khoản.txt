@@ -1,0 +1,13 @@
+403.333M: là .. triệu cổ phiếu giao dịch vào ngày 1/4/2022
+
+kéo sang trái tradingview xem so sánh với 10 ngày vừa qua
+
+Bid lệnh mua có giá trị cao nhất
+ask lệnh bán có giá trị thấp nhất
+spread có giá trị thấp nhất ở thị trường
+
+thị trường mở cửa 5-7 tiếng
+
+thanh khoản giúp ta:
+xác định đáy và đỉnh
+nắm bắt xu hướng cổ phiếu

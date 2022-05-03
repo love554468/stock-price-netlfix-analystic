@@ -1,0 +1,5 @@
+dữ liệu này gồm giá theo phiên có giá đầu phiên đóng phiên  high low vs volumn thì phân tích cơ bản nhất là vẽ biểu đồ thể hiện nó
+
+vẽ nó theo mấy dạng biểu đồ giống trong các app chứng khoán cũng là 1 ý có thể khai thác
+
+bản chất của nó là bài toán kinh doanh, kinh doanh thì phụ thuộc thị trường và đối sách của công ty, ví dụ covid thì vẫn có cty ăn lên làm ra, quan trọng là bóc tách đc lý do tại sao tác động đến nó

@@ -1,0 +1,8 @@
+Có bốn vấn đề cần giải quyết: 
++) kiến thức chuẩn về time series, 
++) kiến thức về giao dịch chứng khoán, 
++) kiến thức về phân tích kỹ thuật trong đầu tư chứng khoán, và 
++) kiến thức về các mô hình dự đoán áp dụng cho time series.
+
+Thường thì thiếu ba kiến thức đầu tiên.
+

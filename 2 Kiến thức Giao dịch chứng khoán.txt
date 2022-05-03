@@ -1,0 +1,1 @@
+open là giá mở bán, close là giá kết phiên, low, high là giá cao nhất thấp nhất, volumn là khối lượng giao dịch đúng k nhỉ

@@ -1,0 +1,8 @@
+vùng hỗ trợ, kháng cự và xu hướng
+
+vùng hỗ trợ : vùng xảy ra nhiều người mua (đáy)
+vùng kháng cự:  vùng xảy ra nhiều người bán(đỉnh)
+
+đường kẻ cho vùng hỗ trợ hay kháng cự càng qua nhiều đỉnh hoặc đáy càng tốt
+
+xu hướng: tăng, giảm, ngang 

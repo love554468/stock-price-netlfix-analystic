@@ -1,0 +1,68 @@
+Time seri hay phân tích chuỗi thời gian kí hiệu ts
+
+Ts là gì, ứng dụng trong kinh tế và nhận định, thành phần chính trong ts data
+
+timeseri là dữ liệu theo thời gian. vd: lịch sử, chứng khoán, số lượng hàng hoá bán theo thời gian, ...
+
+timeplot: x - các mốc thời gian, y - giá trị ghi nhận đối tượng nghiên cứu
+
+timeseri hiểu theo công cụ thì là các công thức phương pháp giúp ta phân tích dữ liệu, rích xuất được những thông tin tiềm ẩn có giá trị, nắm bắt được xu hướng biến động ở lịch sử, hiện tại và hỗ trợ dự báo giá trị của đối tượng nghiên cứu trong tương lai.
+
+Dự báo trong timeseri
+Là quá trình dựa vào dữ liệu lịch sử để đưa ra phân tích
+
+Dự đoán và dự báo là khác nhau: dự đoán đề cập dữ liệu tương lai nói chung, dự báo đề cập đến dữ liệu thời gian cụ thể trong tương lai
+
+Dự báo chuỗi thời gian thường được sử dụng cùng với phân tích chuỗi thời gian. Phân tích chuỗi thời gian liên quan đến việc phát triển các mô hình để có được sự hiểu biết về dữ liệu, để hiểu các thành phần nguyên nhân, yếu tố tác động cơ bản. Quá trình phân tích sẽ cho chúng ta “lý do” đằng sau những giá trị hiện diện trong tập dữ liệu. Tiếp theo đưa ra các dự báo dựa trên việc kiểm soát tốt các “lý do”ấy, và các giải pháp hành động cụ thể.
+
+Có rất rất nhiều mô hình, phương pháp phân tích chuỗi thời gian được ra đời, được cải tiến cho đến ngày hôm nay, nhưng tổng quan, như đã nói ở trên sẽ chỉ bao gồm 2 loại chính: hỗ trợ phân tích biến động, xu hướng; và hỗ trợ để đưa ra dự báo, đo lường độ chính xác của các kết quả dự báo
+
+Mô hình arima: được sử dụng phổ biến nhất
+
+DỰ BÁO TRONG KINH DOANH
+- ngắn : ngày tháng
+- trung: quý - năm
+- dài: 3-5 năm
+
+Dự báo ngắn hạn, trung hạn: giúp công ty vận hành tổ chức hiệu quả, kế hoạch sản xuất, kế hoạch bán hàng, kế hoạch marketing, thúc đẩy nghiên cứu các sản phẩm, dịch vụ mới, giành lấy cơ hội cạnh tranh, phát triển các dự bán mới.
+
+Các dự báo dài hạn sẽ giúp công ty xây dựng tầm nhìn, định hướng, chiến lược tăng trưởng, vị thế muốn đạt được trên thị trường.
+
+Dự báo, ngắn, trung hay dài đều cần có nguồn dữ liệu lớn mới đem lại tính chính xác
+
+{!} Lưu ý đến các yếu tố ảnh hưởng đến biến động ít thay đổi, hoặc giả định ko có thêm các yếu tố biến động nào thêm, ảnh hưởng đến kết quả dự báo.
+"
+Một lưu ý quan trọng khác, trong time series, việc phân tích và dự báo phải dựa trên giả định đó là các yếu tố ảnh hưởng đến sự biến động, thay đổi của đối tượng nghiên cứu trong quá khứ và hiện tại sẽ vẫn còn tồn tại với cùng các đặc điểm, tính chất, mức độ  đến sự biến động, thay đổi của đối tượng nghiên cứu trong tương lai. Vì thế có một số dự báo có thể không chính xác và có thể không có ý nghĩa, không mang lại giá trị khi thực hiện nếu trong ngắn, trung, dài hạn quá nhiều yếu tố tác động xảy đến.
+
+Ví dụ, dự báo doanh thu của sản phẩm trong năm 2021, mà công ty trong năm 2021 dự tính sẽ mở rộng sản xuất, mở thêm các nhà máy, năng lực sản xuất sẽ tăng thì dĩ nhiên nếu chỉ dựa trên dữ liệu lịch sử, về doanh thu các năm trước thì kết quả dự báo năm 2021 sẽ không chính xác. Do mấy năm trước, công ty đâu có nâng cao năng lực sản xuất?
+
+Đây cũng dẫn đến khuyến nghị quan trọng, các công ty không nên chỉ dựa vào kết quả dự báo từ Time series để ra quyết định mà cần xét thêm các góc độ khác. Ở đây công ty vẫn có thể dự báo theo cách: đầu tiên dự báo doanh thu năm 2021 khi công ty không mở rộng sản xuất, dựa trên dữ liệu lịch sử, sau đó cộng thêm doanh thu đạt được ước lượng từ số sản phẩm tăng thêm có thể bán ra. Kết quả sẽ chính xác hơn.
+"
+
+"Do đó trong Time series, các phương pháp tập trung phân tích, kiểm soát, giảm thiểu, hạn chế ảnh hưởng tối đa của các yếu tố biến động, đặc biệt là các yếu tố ngẫu nhiên, để tăng độ chính xác của việc dự báo."
+
+Hoạt động tài chính và quản lý rủi ro đầu tư: dự báo lợi nhuận từ các khoản đầu tư bao gồm cổ phiếu, trái phiếu và hàng hóa; các quyết định đầu tư khác có thể được đưa ra so với dự báo về lãi suất, và tỷ giá hối đoái. Quản lý rủi ro tài chính hiệu quả cần dự báo về sự biến động của lợi nhuận trên tài sản đầu tư để có thể đánh giá và quản lý, phát hiện rủi ro liên quan đến các danh mục đầu tư. Dự báo về thu chi ngân sách, dự báo về nguồn tài chính sử dụng cho các dự án kinh doanh qua các năm.
+
+Timeseri là một dự đoán khó, bị ảnh hưởng bởi rất nhiều yếu tố biến động, phân tích rất khó nhưng nếu phân tích chính xác sẽ đem lại rất nhiều lợi nhuận
+
+timeseri không phù hợp dự báo realtime, realtime dùng demandSensing
+
+TImeseri cho real time có thể kể đến áp dụng tốt trong chứng khoán, time seri dự đoán trong thời gian dài rất cần lưu tâm đến các yếu tố tác động làm ảnh hưởng nghiêm trọng đến kết quả
+
+CÁC THÀNH PHẦN CỦA TIMESERI (COMPONENTS/ PATTERN OF TIMESERI DATA)
++) Trend
++) Mùa vụ
++) Chu kì
++) Ngẫu nhiên bất thường
+
+Trend: xu hướng thể hiện một xu hướng đi lên hoặc đi xuống hoặc đứng yên, là kết quả của các yếu tố tác động dài hạn như dân số thay đổi tăng giảm, sự thay đổi công nghệ hoặc sở thích người tiêu dùng, năng lực sản xuất
+Xu hướng có 2 loại phi tuyến tính và tuyến tính
+
+Mùa vụ 
+
+
+
+
+https://bigdatauni.com/tin-tuc/tim-hieu-ve-time-series-phan-tich-chuoi-thoi-gian-p-1.html
+
+
